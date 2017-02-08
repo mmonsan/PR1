@@ -188,5 +188,12 @@ p {
 background-color: black;
 }
 
-
-/*menu desplegable*/
+#img-carousel
+{
+height: 350px;
+width: 400px;
+} 
+#plus
+{
+border-radius: 100px;
+}
